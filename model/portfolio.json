@@ -6,7 +6,7 @@
 		"client":"Prateep Gedupudi",
 		"date":"Apr, 20114",
 		"service":"Building Construction",
-        "imageUrl": "cabin", 
+        "imageUrl": "cabin" 
     }, 
     {
         "id": "portfolioModal1", 
@@ -15,6 +15,6 @@
 		"client":"Prateep Gedupudi",
 		"date":"Apr, 20114",
 		"service":"Building Construction",
-        "imageUrl": "cabin", 
+        "imageUrl": "cabin" 
     }
 ]
