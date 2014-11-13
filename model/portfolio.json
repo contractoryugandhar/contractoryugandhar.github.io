@@ -1,12 +1,48 @@
 [
     {
-        "id": "greenpalace", 
+        "id": "house1", 
 		"title":"Green Palace",
 		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
 		"client":"Prateep Gedupudi",
 		"date":"Apr, 2014",
 		"service":"Building Construction",
-        "imageUrl": "greenpalace" 
+        "imageUrl": "house1" 
+    },
+	{
+        "id": "house2", 
+		"title":"Green Palace",
+		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+		"client":"Prateep Gedupudi",
+		"date":"Apr, 2014",
+		"service":"Building Construction",
+        "imageUrl": "house2" 
+    },
+	{
+        "id": "house3", 
+		"title":"Green Palace",
+		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+		"client":"Prateep Gedupudi",
+		"date":"Apr, 2014",
+		"service":"Building Construction",
+        "imageUrl": "house3" 
+    },
+	{
+        "id": "house4", 
+		"title":"Green Palace",
+		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+		"client":"Prateep Gedupudi",
+		"date":"Apr, 2014",
+		"service":"Building Construction",
+        "imageUrl": "house4" 
+    },
+	{
+        "id": "house5", 
+		"title":"Green Palace",
+		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
+		"client":"Prateep Gedupudi",
+		"date":"Apr, 2014",
+		"service":"Building Construction",
+        "imageUrl": "house5" 
     },
 	{
         "id": "portfolioModal1", 
