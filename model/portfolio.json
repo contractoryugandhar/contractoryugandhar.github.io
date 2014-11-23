@@ -12,9 +12,9 @@
     },
 	{
         "id": "narayanarao", 
-		"title":"Saptagiri",
+		"title":"Narayana Nilayam",
 		"about":"Construction done in a plot of 30x40 square feets with three floors by giving 500 square feets parking with first class red bricks, flooring and cladding with granite.",
-		"client":"C S Manjunath",
+		"client":"Narayana Rao",
 		"phone":"91 9845535402",
 		"address":"3Rd A Block, Anjanapura, JP Nagar 9th Phase, Bangalore",
 		"date":"Nov, 2014",
@@ -22,13 +22,15 @@
         "imageUrl": "narayanarao" 
     },
 	{
-        "id": "house4", 
-		"title":"Green Palace",
-		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-		"client":"Prateep Gedupudi",
-		"date":"Apr, 2014",
+        "id": "csbasavaraj", 
+		"title":"Basavaraj Nilayam",
+		"about":"Construction done in a plot of 30x40 square feets with two floors by giving 300 square feets parking with first class red bricks, flooring and cladding with granite.",
+		"client":"C S Basavaraj",
+		"phone":"91 9880915428",
+		"address":"5Th A Block, Anjanapura, JP Nagar 9th Phase, Bangalore",
+		"date":"Nov, 2014",
 		"service":"Building Construction",
-        "imageUrl": "house4" 
+        "imageUrl": "csbasavaraj" 
     },
 	{
         "id": "house5", 
