@@ -1,21 +1,14 @@
 [
     {
-        "id": "house1", 
-		"title":"Green Palace",
-		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-		"client":"Prateep Gedupudi",
-		"date":"Apr, 2014",
+        "id": "csmanjunath", 
+		"title":"Saptagiri",
+		"about":"Construction done in a plot of 40x60 square feets with four floors by giving 1000 square feets parking with first class red bricks, flooring and cladding with granite.",
+		"client":"C S Manjunath",
+		"phone":"+91 9902760186",
+		"address":"Site No# 177, 3Rd A Block, Anjanapura, JP Nagar 9th Phase, Bangalore"
+		"date":"Oct, 2014",
 		"service":"Building Construction",
-        "imageUrl": "house1" 
-    },
-	{
-        "id": "house2", 
-		"title":"Green Palace",
-		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-		"client":"Prateep Gedupudi",
-		"date":"Apr, 2014",
-		"service":"Building Construction",
-        "imageUrl": "house2" 
+        "imageUrl": "csmanjunath" 
     },
 	{
         "id": "house3", 
