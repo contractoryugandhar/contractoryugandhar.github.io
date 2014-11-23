@@ -54,44 +54,7 @@
 		"service":"Building Construction",
         "imageUrl": "kumaresh" 
     }, 
-   
-	{
-        "id": "portfolioModal3", 
-		"title":"Sri Nilayam",
-		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-		"client":"Prateep Gedupudi",
-		"date":"Apr, 2014",
-		"service":"Building Construction",
-        "imageUrl": "circus" 
-    },
-	{
-        "id": "portfolioModal4", 
-		"title":"Sri Nilayam",
-		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-		"client":"Prateep Gedupudi",
-		"date":"Apr, 2014",
-		"service":"Building Construction",
-        "imageUrl": "game" 
-    },
-	{
-        "id": "portfolioModal5", 
-		"title":"Sri Nilayam",
-		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-		"client":"Prateep Gedupudi",
-		"date":"Apr, 2014",
-		"service":"Building Construction",
-        "imageUrl": "safe" 
-    },
-	{
-        "id": "portfolioModal6", 
-		"title":"Sri Nilayam",
-		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
-		"client":"Prateep Gedupudi",
-		"date":"Apr, 2014",
-		"service":"Building Construction",
-        "imageUrl": "submarine" 
-    },
-	{
+   {
         "id": "house6", 
 		"title":"Sri Nilayam House",
 		"about":"Use this area of the page to describe your project. The icon above is part of a free icon set by Flat Icons. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!",
