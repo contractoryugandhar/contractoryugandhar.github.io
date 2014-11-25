@@ -96,7 +96,7 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div class="row" ng-controller="PortfolioController">
+            <div class="row" ng-controller="PortfolioCtrl">
                 <div class="col-sm-4 portfolio-item" ng-repeat="item in portfolio">
                     <a href="#{{item.id}}" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -224,7 +224,7 @@
     </div>
 
     <!-- Portfolio Modals -->
-	<div ng-controller="PortfolioController">
+	<div ng-controller="PortfolioCtrl">
 		<div ng-repeat="item in portfolio">
 			<div class="portfolio-modal modal fade" id="{{item.id}}" tabindex="-1" role="dialog" aria-hidden="true">
 				<div class="modal-content">
